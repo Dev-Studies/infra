@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: ureverse
-        image: dockerhub-username/ureverse-backend:latest
+        image: taeyeon0319/ureverse-be:kty
         ports:
         - containerPort: 8080
